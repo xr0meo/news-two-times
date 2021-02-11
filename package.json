@@ -1,0 +1,22 @@
+{
+  "name": "news-two-times",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xr0meo/news-two-times.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xr0meo/news-two-times/issues"
+  },
+  "homepage": "https://github.com/xr0meo/news-two-times#readme",
+  "dependencies": {
+    "puppeteer": "^7.0.4"
+  }
+}
